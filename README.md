@@ -2,9 +2,7 @@
 - 👀 I’m interested in Designing Front End
 - 🌱 I’m currently learning UI and UX Design
 - 💞️ I’m looking to collaborate on a Designing and Front End Platform
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me through GitHub and LinkedIn
 
 <!---
 Leena9345/Leena9345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
